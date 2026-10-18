@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">India Saathi</title>
+  <desc id="desc">India Saathi civic platform logo with India, a civic monument, a helping hand and community figures.</desc>
+  <defs>
+    <linearGradient id="orange" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff8a00"/><stop offset="1" stop-color="#f36b00"/></linearGradient>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d5591"/><stop offset="1" stop-color="#062d59"/></linearGradient>
+    <linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#27a844"/><stop offset="1" stop-color="#087b32"/></linearGradient>
+  </defs>
+  <rect width="1000" height="1000" fill="#fff"/>
+  <path fill="url(#orange)" d="M205 273c-26-19-21-57 12-67l34-10 14-31c10-23 35-33 57-23l25-28c16-18 45-17 59 3l28-14c22-11 48-1 57 21l32 5c25 4 39 31 27 54l-18 33 37 19c23 12 29 42 12 61l-18 21 29 31c16 18 11 47-13 58l-34 16 12 36c8 25-12 50-38 49l-40-1-13 39c-9 25-40 35-61 19l-33-25-31 26c-22 18-54 7-62-20l-11-37-41 3c-27 2-46-25-37-50l13-37-35-17c-24-11-30-42-12-60l29-29z"/>
+  <path fill="url(#blue)" stroke="#fff" stroke-width="8" d="M367 293h192v172H367z"/>
+  <path fill="url(#blue)" stroke="#fff" stroke-width="8" d="M349 293h228v25H349zm20-26h188v26H369zm38-25h112l28 25H379z"/>
+  <path fill="#fff" d="M440 372c0-21 17-38 38-38s38 17 38 38v93h-76z"/>
+  <path fill="url(#blue)" stroke="#fff" stroke-width="7" d="M366 466h194v31H366z"/>
+  <circle cx="635" cy="310" r="24" fill="#ff8700"/><path fill="#ff8700" d="M593 373c0-30 23-54 52-54s52 24 52 54v38H593z"/>
+  <circle cx="702" cy="325" r="24" fill="#12639d"/><path fill="#12639d" d="M660 388c0-29 23-53 52-53s52 24 52 53v35H660z"/>
+  <circle cx="768" cy="346" r="22" fill="#159440"/><path fill="#159440" d="M731 405c0-28 21-50 47-50s47 22 47 50v30h-94z"/>
+  <path fill="url(#orange)" stroke="#fff" stroke-width="8" d="M258 456c126 96 245 91 378 19 65-35 139-31 194 9l-20 35c-53-30-107-31-165 0-143 75-287 77-420-18z"/>
+  <path fill="url(#green)" stroke="#fff" stroke-width="8" d="M393 501c111 18 181 6 265-31 69-30 130-17 180 25l-37 80c-25-27-54-39-89-32-56 12-76 58-105 93l-31-6c19-30 35-67 13-79-34-18-76 3-122 13-48 10-88 2-132-13z"/>
+  <path fill="url(#blue)" d="M185 413c45 78 98 123 178 145 54 15 115 4 164-16 28-12 56-9 71 7 21 22-17 55-45 72-66 39-148 55-221 27-72-28-124-89-147-159z"/>
+  <path fill="#fff" d="M389 562c54 8 108-1 151-19 22-9 37-5 39 4 2 13-33 30-65 39-42 12-84 11-125-1z"/>
+  <path fill="#0b3e71" d="M78 743h45v102H78z"/><path fill="#ff7f00" d="M78 743h45v18H78z"/><path fill="#1b9a45" d="M78 761h45v18H78z"/>
+  <text x="137" y="820" font-family="Arial,Helvetica,sans-serif" font-size="126" font-weight="800" letter-spacing="-6" fill="#073765">INDIA</text>
+  <text x="530" y="820" font-family="Arial,Helvetica,sans-serif" font-size="126" font-weight="800" letter-spacing="-5" fill="#f57b00">SAATHI</text>
+  <path d="M80 872h88M832 872h88" stroke="#073765" stroke-width="5"/>
+  <text x="190" y="885" font-family="Arial,Helvetica,sans-serif" font-size="31" letter-spacing="2" fill="#073765">Safer  •  Smarter  •  Stronger India</text>
+</svg>
